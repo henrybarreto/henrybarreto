@@ -1,11 +1,19 @@
-## Hi, my name is Henry. 👋
+## Hello, world! I'm Henry. 👋
 
-I'm a self-taught web developer who loves work in **back-end** and discover obscure things about grammar.
-
-:construction_worker: Now I'm working with **JavaScript** and **TypeScript**, on **Node.js** and **Deno** as my main line of work.
-
-:heart: Of course, I admit, I tasted the front-end, but I love in truth the good and old **back-end**.
-
-:pencil: Currently I'm learning **Rust**.
-
-:nerd_face: I'm a language learning, conocer cómo otras personas ven el mundo a partir de su lenguaje es maravilloso, Ich liebe es!
+```rust
+  let me = Dev {
+    name: "Henry",
+    age: "Age",
+    hobby: "Language learning",
+    education: "Análise e desenvolvimento de sistemas",
+    job: "Back-end",
+    languages: ["Português", "English", "and Learning Deutsch"],
+    programming: ["Javascript", "Typescript", "Java", "Rust"]
+    social: [ 
+      Twitter("@henrybarreto_"),
+      Instagram("_henrybarreto"),
+      Email("contato@henrybarreto.com"),
+      Site("https://henrybarreto.dev/")
+    ],
+  };
+```
