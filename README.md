@@ -12,7 +12,7 @@
     social: [ 
       Twitter("@henrybarreto_"),
       Instagram("_henrybarreto"),
-      Email("contato@henrybarreto.com"),
+      Email("contato@henrybarreto.dev"),
       Site("https://henrybarreto.dev/")
     ],
   };
