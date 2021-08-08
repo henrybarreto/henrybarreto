@@ -8,7 +8,7 @@
     education: "Análise e desenvolvimento de sistemas",
     job: "Back-end",
     languages: ["Português", "English", "and Learning Deutsch"],
-    programming: ["Javascript", "Typescript", "Java", "Rust"],
+    programming: ["Javascript", "Typescript", "Java", "Rust", "Go"],
     social: [ 
       Twitter("@henrybarreto_"),
       Instagram("_henrybarreto"),
