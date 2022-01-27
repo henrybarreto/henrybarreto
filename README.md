@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/23109089/151426191-44d18d37-e4da-4ad5-8974-a08c9c60fdfa.png" width="150" alt="Henry's photo"/>
   <strong><p>Henry Barreto</p></strong>
   <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -19,8 +18,8 @@ Today, I'm a Back-end developer who know a bit about the core technologies for t
 I am also ever looking for new things to learn and try out. You know, the best way to learn something is practice. My broken Linux distros will confirm it!
 
 By the way, since I have begun, the contributions of many people to open source community have helped a lot, even I never see anyone. Because of that, I try to retribute the max I can to the community. In my Blog, https://henrybarreto.dev/, I try to share what I have been learning and some helper articles.
-
-I believe that decentralized technologies will be the future of the web. I understand that centralization still is needed in many systems, but the new approach probable will dominate.
+t
+I believe that decentralized technologies will be the future of the web. I understand that centralization still is needed in many systems, but the new approach probable will be dominating.
 
 ![bottom bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
 
