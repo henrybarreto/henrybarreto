@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/23109089/151426191-44d18d37-e4da-4ad5-8974-a08c9c60fdfa.png" width="150" alt="Henry's photo"/>
   <strong><p>Henry Barreto</p></strong>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br />
 </div>
 
