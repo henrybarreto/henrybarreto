@@ -1,5 +1,5 @@
 <div align="center">
-  <strong><p>Henry Barreto</p></strong>
+  <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/151450546-7c9278d2-e01c-420e-934a-b2c2441acd18.png" alt="Henry Barreto's logo" /></a>
   <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br />
