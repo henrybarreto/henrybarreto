@@ -33,7 +33,7 @@ I believe that decentralized technologies will be the future of the web. I under
 <div align="center">
   <a href="https://profile.codersrank.io/user/henrybarreto"><img src="https://user-images.githubusercontent.com/23109089/151466937-0bfd8d60-3963-4768-81b4-c3b0a9d91e72.png" /></a>
   <br />
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=henrybarreto&logos=true&branding=false&style=--item-border-radius:10px;width:1400px;" />
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=henrybarreto&logos=true&branding=false&grid=true&style=--item-border-radius:10px;width:700px;" />
 </div>
 
 <br />
