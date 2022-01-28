@@ -37,19 +37,16 @@ I believe that decentralized technologies will be the future of the web. I under
 <div align="center">
   <img src="https://user-images.githubusercontent.com/23109089/151436347-e93ec743-9892-4536-bd94-0b186829a538.png" alt="skills" />
   <br />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /> 
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java" />
 </div>
+
+<br />
+<br />
+<div align="center">
+  <a href="https://profile.codersrank.io/user/henrybarreto"><img src="https://user-images.githubusercontent.com/23109089/151466937-0bfd8d60-3963-4768-81b4-c3b0a9d91e72.png" /></a>
+</div>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=henrybarreto&logos=true&branding=false&style=--item-border-radius:10px;width:1400px;" />
 
 <div align="center">
   <br />
