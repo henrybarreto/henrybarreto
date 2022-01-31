@@ -24,28 +24,10 @@ I believe that decentralized technologies will be the future of the web. I under
 ![bottom bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/23109089/151436347-e93ec743-9892-4536-bd94-0b186829a538.png" alt="skills" />
   <br />
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java" />
 </div>
 
-<br />
 <div align="center">
-  <a href="https://profile.codersrank.io/user/henrybarreto"><img src="https://user-images.githubusercontent.com/23109089/151466937-0bfd8d60-3963-4768-81b4-c3b0a9d91e72.png" /></a>
-  <br />
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=henrybarreto&logos=true&branding=false&grid=true&style=width:700px;--item-bg-color:%23ffffff;--item-spacing:1em;" />
-</div>
-
-<br />
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/23109089/151436214-8fdb1639-1330-4d40-874e-add536511feb.png" alt="languages" />
-    <br />
-    <img src="https://cdn.countryflags.com/thumbs/brazil/flag-square-250.png" width="70"/>
-    <img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-square-250.png" width="70"/>
-    <img src="https://cdn.countryflags.com/thumbs/germany/flag-square-250.png" width="70"/>
-</div>
-
-<div align="center">
-  <br />
   <img src="https://user-images.githubusercontent.com/23109089/151437124-ef796517-a3fd-4692-b5b9-af1ca26592d5.png" />
 </div>
