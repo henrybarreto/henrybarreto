@@ -7,7 +7,7 @@
 
 ![top bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
 
-Hi, welcome to my Github profile. I'm Henry Barreto, I'm a 22 years-old programmer, here I show my projects, ideas, configure file and my Bolognese code.
+Hi, welcome to my Github profile. I'm Henry Barreto, I'm a 23 years-old programmer, here I show my projects, ideas, configure file and my Bolognese code.
 
 For me, programming is not just my labor, but also my Hobby. It is a thing I have ever liked to do, since I had known it when I had wanted to program games.
 
