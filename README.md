@@ -7,19 +7,24 @@
 
 ![top bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
 
-Hi, welcome to my Github profile. I'm Henry Barreto, I'm a 23 years-old programmer, here I show my projects, ideas, configure file and my Bolognese code.
+Hi, welcome to my Github profile. 
+
+I'm Henry Barreto, I'm a 23 years-old programmer, here I expose my projects, ideas, configuration files and my Bolognese code.
 
 For me, programming is not just my job, but also my Hobby. It is a thing I have ever liked to do, since I had known It when I had wanted to program games.
+In addition to that, I ever wanted to know how the things work under the hood; see the gears, I exercise this everyday, ever looking to know, "How this works", due to that, I believe programming was a perfect match to me.
 
-I ever want to know how the things work under the hood; see the gears, do you know what I mean? I exercise this everyday, ever looking to know, "How this works".
+Today, I'm a Back-end developer with knowledge compatible to this role, but I know a bit about the core technologies for the Front-end as HTML, CSS, JavaScript, and a bit of React. That is why I tried to be a front-end developer, but I truly love the bytes instead of "sizes".
 
-Today, I'm a Back-end developer who know a bit about the core technologies for the Front-end. Yes, a Back-end dev who knows how to use a CSS's grid and how to center a div, it is not normal, I know.
+*Yes, a Back-end dev who knows how to use a CSS's grid and how to center a div, it is not normal, I know.*
 
-I am also ever looking for new things to learn and try out. You know, the best way to learn something is practice. My broken Linux distros will confirm it!
+I am also ever looking for new things to learn and try out. Because I believe that the best way to learn something is practice. 
 
-By the way, since I have begun, the contributions of many people to the open-source community have helped a lot, even I never see anyone. Therefore, I try to retribute the max I can to the community. In my Blog, https://henrybarreto.dev/, I try to share what I have been learning and some helper articles.
+*My broken Linux distros will confirm it to you!*
 
-I believe that decentralized technologies is the future, but I understand that centralization is needed in many systems.
+By the way, since I have begun, the contributions of many people to the open-source community have helped me a lot, even I never see anyone. Therefore, I try to retribute the max I can to the community. In my Blog, https://henrybarreto.dev/, I try to share what I have been learning and some helper articles.
+
+Regards,
 
 ![bottom bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
 
