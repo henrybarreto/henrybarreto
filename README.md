@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/151450546-7c9278d2-e01c-420e-934a-b2c2441acd18.png" alt="Henry Barreto's logo" /></a>
+  <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/169611428-bacf3e1c-aab9-4dd4-aef7-22ce7b2c0fd2.png" alt="Henry Barreto's logo" /></a>
   <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br />
 </div>
 
-![top bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
+![top bar](https://user-images.githubusercontent.com/23109089/169611335-0d78ee53-0b83-45fc-bc88-f4026d9ddcdf.png)
 
-Hi, welcome to my Github profile. 
+Hi, welcome to my Github profile,
 
 I'm Henry Barreto, I'm a 23 years-old programmer, here I expose my projects, ideas, configuration files and my Bolognese code.
 
@@ -26,7 +26,8 @@ By the way, since I have begun, the contributions of many people to the open-sou
 
 Regards,
 
-![bottom bar](https://user-images.githubusercontent.com/23109089/151434150-512e3a4e-b3fb-491d-8943-aac6ebffb449.png)
+
+![bottom bar](https://user-images.githubusercontent.com/23109089/169611335-0d78ee53-0b83-45fc-bc88-f4026d9ddcdf.png)
 
 <div align="center">
   <br />
@@ -34,5 +35,5 @@ Regards,
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/23109089/151437124-ef796517-a3fd-4692-b5b9-af1ca26592d5.png" />
+  <img src="https://user-images.githubusercontent.com/23109089/169611383-a65f3baa-bc7a-4d20-8edc-86746973d518.png" />
 </div>
