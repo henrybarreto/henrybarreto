@@ -30,8 +30,7 @@ Regards,
 ![bottom bar](https://user-images.githubusercontent.com/23109089/169611335-0d78ee53-0b83-45fc-bc88-f4026d9ddcdf.png)
 
 <div align="center">
-  <br />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java" />
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
 
 <div align="center">
