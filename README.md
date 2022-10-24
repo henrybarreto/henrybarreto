@@ -11,7 +11,7 @@ Hi, welcome to my Github profile,
 
 I'm Henry Barreto, I'm a 23 years-old programmer, here I expose my projects, ideas, configuration files and my Bolognese code.
 
-For me, programming is not just my job, but also my Hobby. It is a thing I have ever liked to do, since I had known It when I had wanted to program games.
+For me, programming is not just my job, but also my Hobby. It is a thing I have ever liked to do, since I knew it when I had wanted to program games.
 In addition to that, I ever wanted to know how the things work under the hood; see the gears, I exercise this everyday, ever looking to know, "How this works", due to that, I believe programming was a perfect match to me.
 
 Today, I'm a Back-end developer with knowledge compatible to this role, but I know a bit about the core technologies for the Front-end as HTML, CSS, JavaScript, and a bit of React. That is why I tried to be a front-end developer, but I truly love the bytes instead of "sizes".
