@@ -16,7 +16,7 @@ For me, programming is not just my job, but also my way of life. I ever wanted t
 Today, I'm a Back-end developer with knowledge compatible to this role. I also know a bit about the core technologies for the Front-end as HTML, CSS, JavaScript, and a bit of React. I have tried to be a “Full-stack developer”, but I truly love the bytes instead of the “sizes”.
 
 
-    Yes, I how to use a CSS's grid and how to center a div. It is not normal, I know.
+> Yes, I how to use a CSS's grid and how to center a div. It is not normal, I know.
 
 
 I am ever looking for new things to learn and try out, sometime I think I am doing it too much, what could be harmful to me, but I believe that the best way to improve myself professionally and personally.
