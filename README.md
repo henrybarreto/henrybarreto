@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/213780396-3fb82f5e-5d70-41f1-9e32-ec03ea1be1ee.png" alt="Henry Barreto's logo" /></a>
+  <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/213782979-5a11a9cc-77ef-4334-8d9b-9f5c6587c44f.png" alt="Henry Barreto's logo" /></a>
   <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br />
 </div>
 
-![top line](https://user-images.githubusercontent.com/23109089/213780418-f1c3080f-f101-49aa-addb-b91bfdf09178.png)
+![top line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
 Hello and welcome to my GitHub profile. My name is Henry Barreto, and I'm a 23-year-old programmer. Here, I expose my projects, ideas, configuration files, and my dubious code.
 
@@ -19,7 +19,7 @@ The contributions of many people to the open-source community have helped me a l
 I have a special lust for human languages. I consider it as the primal human ability. It's something I can't explain properly, but I've read somewhere else that it frames how people think, act, and live. It's fascinating to me.
 
 
-![bottom line](https://user-images.githubusercontent.com/23109089/213780418-f1c3080f-f101-49aa-addb-b91bfdf09178.png)
+![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
 <div align="center">
   <br />
@@ -27,5 +27,5 @@ I have a special lust for human languages. I consider it as the primal human abi
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/23109089/213780423-7142f9b0-bbf7-4a3c-bd6c-b235f0731594.png" />
+  <img src="https://user-images.githubusercontent.com/23109089/213783513-9f3e2a3f-c324-4250-8f37-acc6302127f7.png" />
 </div>
