@@ -7,17 +7,13 @@
 
 ![top line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
-Hello and welcome to my GitHub profile. My name is Henry Barreto, and I'm a 23-year-old programmer. Here, I expose my projects, ideas, configuration files, and my dubious code.
+Welcome to my GitHub profile! My name is Henry Barreto, and I am a back-end developer with a passion for low-level programming and a admiration for human languages. Here, you'll find a variety of projects I've been working on, from experimenting with Rust to building web applications with Node.js. I also like to share my config files and some dubious code that I've written along the way.
 
-Today, I'm a Back-end developer with knowledge compatible to this role. I also know a bit about the core technologies for the Front-end as HTML, CSS, JavaScript, and a bit of React. I have tried to be a “Full-stack developer”, but I truly love the bytes instead of the “sizes”.
+As a back-end developer, I am currently working on a SaaS system called ShellHub, which was recognized by Linux Magazine as the "SSH of the 21st century". While I am not an advocate for open-source, I do believe in the value it brings to the development community.
 
-> Yes, I how to use a CSS's grid and how to center a div. It isn't normal, I know. 
+In my free time, I am actively working to improve my skills in Rust, with the goal of becoming a professional in this language in the future. I am also always looking to improve my skills in Go and related technologies. Additionally, I have a deep interest in human languages and believe that they play a fundamental role in how we think, act, and live.
 
-The contributions of many people to the open-source community have helped me a lot, even though I never see anyone. As a way of trying to give back to the community, I created my blog, https://henrybarreto.dev/, in an initiative to practice my poor English and to share what I have been learning, in the hope that it will help someone else.
-
-
-I have a special lust for human languages. I consider it as the primal human ability. It's something I can't explain properly, but I've read somewhere else that it frames how people think, act, and live. It's fascinating to me.
-
+To document my learning experiences, I created my blog https://henrybarreto.dev/. On my blog, I share my progress and knowledge in the hope that it will help others on their own journey. I invite you to check it out and follow my progress.
 
 ![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
