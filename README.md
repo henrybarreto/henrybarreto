@@ -2,6 +2,8 @@
   <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/213782979-5a11a9cc-77ef-4334-8d9b-9f5c6587c44f.png" alt="Henry Barreto's logo" /></a>
   <a href="https://twitter.com/henrybarreto_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ruan-figueiredo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@henrybarreto"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
   <br />
 </div>
 
