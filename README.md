@@ -8,13 +8,15 @@
 
 ![top line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
-Welcome to my GitHub profile! My name is Henry Barreto, and I am a back-end developer with a passion for low-level programming and a admiration for human languages. Here, you'll find a variety of projects I've been working on, from experimenting with Rust to building web applications with Node.js. I also like to share my config files and some dubious code that I've written along the way.
+**Welcome to my GitHub profile!**
 
-As a back-end developer, I am currently working on a SaaS system called ShellHub, which was recognized by Linux Magazine as the "SSH of the 21st century". While I am not an advocate for open-source, I do believe in the value it brings to the development community.
+Hello, my name is **Henry Barreto**. I am a passionate **Back-end developer** with a keen interest in low-level, web __(.*)__ programming and a deep admiration for human languages. Here, you'll find an assortment of projects I've been working on, ranging from _Rust_ experimentations to _Go_ and _Node.js_ one's. I also enjoy sharing my configuration files and even some quirky code I've crafted along the way.
 
-In my free time, I am actively working to improve my skills in Rust, with the goal of becoming a professional in this language in the future. I am also always looking to improve my skills in Go and related technologies. Additionally, I have a deep interest in human languages and believe that they play a fundamental role in how we think, act, and live.
+As a back-end developer, I am currently working on a SaaS system called _ShellHub_, which was recognized by Linux Magazine as the "SSH of the 21st century". While I am not an advocate for open-source, I do believe in the value it brings to the development community.
 
-To document my learning experiences, I created my blog https://henrybarreto.dev/. On my blog, I share my progress and knowledge in the hope that it will help others on their own journey. I invite you to check it out and follow my progress.
+During my free time, I'm actively honing my skills in _Rust_ with the ultimate goal of becoming a proficient professional in the language. I'm also continually seeking opportunities to enhance my expertise in _Go_, my primary language, and related technologies.
+
+To document my learning experiences, I've created a blog at https://henrybarreto.dev/. Through my blog, I share my progress and knowledge, hoping to assist others on their own journeys. I warmly invite you to explore my blog and follow along with my growth.
 
 ![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
