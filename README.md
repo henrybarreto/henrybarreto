@@ -22,7 +22,7 @@ To document my learning experiences, I've created a blog at https://henrybarreto
 
 <div align="center">
   <br />
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java,C" />
 </div>
 
 <div align="center">
