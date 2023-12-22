@@ -19,8 +19,21 @@ To document my learning experiences, I've created a blog at https://henrybarreto
 
 ![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
+
+
+<div align="center">
+  <p><strong>My favorites technologies</strong></p>
+  <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/1095349a-4b57-4606-aada-ebddd68c5f6d" />
+  <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/fedb5301-0216-4f4f-8e88-43478b207107" />
+  <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/21fe1ad6-316c-4049-9d4e-ae6c765b67ed" />
+  <br />
+</div>
+
+![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
+
 <div align="center">
   <br />
+  <p><strong>Most used programming languages</strong></p>
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=henrybarreto&branding=false&width=700px&skills=Rust,Go,JavaScript,TypeScript,Java,C" />
 </div>
 
