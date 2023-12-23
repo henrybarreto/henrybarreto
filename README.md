@@ -7,15 +7,8 @@
 ![top line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
 <br />
-<div align="right">
-    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/cdab116e-4098-4a75-b3cc-2acfcddad70d" />
-</div>
-<br />
-<div align="left">
-    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/b188c475-c99c-4af6-81fd-a44ed4415b82" />
-    <br />
-    <br />
-    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/cf41a23e-d214-4b46-86e4-e8f5469b41c0" />
+<div align="center">
+    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/21821179-bffb-48d6-ba24-fb52cdabe997" />
 </div>
 <br />
 
