@@ -8,7 +8,7 @@
 
 <br />
 <div align="right">
-    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/8790edd2-2a3f-4f47-bde7-6bd77ab0e6df" />
+    <img src="https://github.com/henrybarreto/henrybarreto/assets/23109089/cdab116e-4098-4a75-b3cc-2acfcddad70d" />
 </div>
 <br />
 <div align="left">
