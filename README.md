@@ -8,9 +8,9 @@
 
 Hi, welcome to my GitHub profile.
 
-I am Software Developer with a huge interest **network communication and protocols**, a lot of curiosite about **interop between programming languages**, aka. **Rust** and **C**, web technologies, as *WebSocket*, *WebAssembly* and *WebTorrent*, **Open source** initiatives, **Linux** operational systems, and a deep admiratoin for human languages and how they make our world.
+I am a software developer with a **huge interest in network communication and protocols**, a lot of curiosity about **interoperability between programming languages**, aka. **Rust** and **C**, **web technologies** such as WebSocket, WebAssembly and WebTorrent, **open-source** initiatives, **Linux** operational systems, and a deep admiration for **human languages** and how they make our world.
 
-You are welcome to explore my repositories, where I channel my enthusiasm into practical coding solutions—sometimes more enthusiasm than code itself—and my **blog**, where I try to explain or just document some experiences I had along the way in the tech world.
+You are welcome to explore my repositories, where I channel my enthusiasm into practical coding solutions—sometimes more enthusiasm than code itself—and my **blog**, where I try to explain or just document some experiences I had along the way in the tech world
 
 ![bottom line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
 
