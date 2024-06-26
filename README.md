@@ -1,7 +1,5 @@
 <div align="center">
   <a href="https://henrybarreto.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/23109089/213782979-5a11a9cc-77ef-4334-8d9b-9f5c6587c44f.png" alt="Henry Barreto's logo" /></a>
-  <a href="https://www.linkedin.com/in/henry-barreto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@henrybarreto"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 
 ![top line](https://user-images.githubusercontent.com/23109089/213783502-9cf034cf-872c-4238-94d4-a170033234c0.png)
